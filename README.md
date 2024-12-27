@@ -29,7 +29,7 @@ QnAverse empowers users with the following capabilities:
 |----------------------|----------------------------------------------------|
 | **🦊 MetaMask**      | Wallet integration for authentication.             |
 | **🔨 Hardhat**       | Smart contract development and testing.            |
-| **🌐 Infura**        | Blockchain node provider for Ethereum.             |
+| **🌐 Alchemy**        | Blockchain node provider for Polygon Amoy.             |
 | **⚡ Next.js**       | Frontend framework for a scalable UI.              |
 | **📘 TypeScript**    | Type-safe and maintainable development.            |
 | **🎨 Tailwind CSS**  | Responsive and modern interface styling.           |
