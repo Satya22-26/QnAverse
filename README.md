@@ -1,6 +1,6 @@
-# QnAverse 🌐💡
+# QnAverse       
 
-**QnAverse** is a decentralized application (DApp) that revolutionizes the question-and-answer space by harnessing blockchain technology for transparency, security, and decentralized operations. 🚀
+**QnAverse** is a decentralized application (DApp) that revolutionizes the question-and-answer space by harnessing blockchain technology for transparency, security, and decentralized operations. [**Start Exploring Here 🚀**](https://qn-averse.vercel.app/)
 
 ---
 
