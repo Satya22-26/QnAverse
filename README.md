@@ -1,69 +1,41 @@
-# How to Build an Answer to Earn (A2E) Platform with NextJs, TypeScript, Tailwind CSS, and Solidity
+# QnAverse 🌐💡
 
-Read the full tutorial here: [**>> How to Build an Answer to Earn (A2E) Platform with NextJs, TypeScript, Tailwind CSS, and Solidity**](https://daltonic.github.io)
+**QnAverse** is a decentralized application (DApp) that revolutionizes the question-and-answer space by harnessing blockchain technology for transparency, security, and decentralized operations. 🚀
 
-This example shows How to Build an Answer to Earn (A2E) Platform with NextJs, TypeScript, Tailwind CSS, and Solidity:
+---
 
-![Questions](./screenshots/0.png)
-<center><figcaption>Questions</figcaption></center>
+## **What Does the Project Do? 🛠️**
 
-![Creating Questions](./screenshots/1.png)
-<center><figcaption>Creating Questions</figcaption></center>
+QnAverse empowers users with the following capabilities:  
+- **❓ Post Questions**: Create questions with reward incentives to engage participants.  
+- **🔐 Connect Wallets**: Use MetaMask for secure authentication and seamless interactions.  
+- **✍️ Submit Answers**: Bounty Hunters can browse and provide answers to posted questions.  
+- **⚙️ Smart Contract Execution**: Automates operations like question creation, updates, and answer submissions.  
+- **💸 Reward Distribution**: Question creators manually transfer rewards to the selected answerers, with a small service fee for the app owner.  
 
-![Questions Details](./screenshots/2.png)
-<center><figcaption>Questions Details</figcaption></center>
+---
 
-## Technology
+## **Images 🖼️**
 
-This demo uses:
+![Screenshot 2024-12-27 113433](https://github.com/user-attachments/assets/a6cc768a-6a16-4d26-a3a6-99573d95858e)  
+![Screenshot 2024-12-27 113541](https://github.com/user-attachments/assets/f08e5aba-3893-4b62-a293-5960ef43116d)  
+![Screenshot 2024-12-27 113615](https://github.com/user-attachments/assets/14032652-a8f1-49e2-b89f-3e584bc0a6d1)  
 
-- Metamask
-- Hardhat
-- Infuira
-- NextJs
-- TypeScript
-- Tailwind CSS
-- Solidity
-- EthersJs
-- Faucet
+---
 
-## Running the demo
+## **Technologies Used 💻**
 
-To run the demo follow these steps:
+| 🛠️ **Technology**   | ✨ **Purpose**                                      |
+|----------------------|----------------------------------------------------|
+| **🦊 MetaMask**      | Wallet integration for authentication.             |
+| **🔨 Hardhat**       | Smart contract development and testing.            |
+| **🌐 Infura**        | Blockchain node provider for Ethereum.             |
+| **⚡ Next.js**       | Frontend framework for a scalable UI.              |
+| **📘 TypeScript**    | Type-safe and maintainable development.            |
+| **🎨 Tailwind CSS**  | Responsive and modern interface styling.           |
+| **📜 Solidity**      | Smart contracts for handling DApp logic.           |
+| **📡 Ethers.js**     | Blockchain communication for the frontend.         |  
 
-1. Clone the project with the code below.
+--- 
 
-   ```sh
-
-   # Make sure you have the above prerequisites installed already!
-   git clone https://github.com/Daltonic/answer_to_earn answerToEarn
-   cd answerToEarn # Navigate to the new folder.
-   ```
-
-2. Create a `.env` file to include the following details.
-   ```sh
-    NEXT_APP_RPC_URL=http://127.0.0.1:8545/
-   ```
-3. On one terminal, run the app using:
-   ```
-    yarn install
-    yarn hardhat run scripts/deploy.js
-   ```
-
-4. On a second terminal, run the app using `yarn dev` to launch on the browser.
-   <br/>
-
-If your confuse about the installation, check out this **TUTORIAL** to see how you should run it.
-
-Questions about running the demo? [Open an issue](https://github.com/Daltonic/answer_to_earn/issues). We're here to help ✌️
-
-## Useful links
-
-- 🏠 [Website](https://daltonic.github.io/)
-- ⚽ [Metamask](https://metamask.io/)
-- 🚀 [Infuria](https://app.infura.io/dashboard/)
-- 💡 [Hardhat](https://hardhat.org/)
-- 🔥 [NextJs](https://nextjs.org/)
-- 🐻 [Solidity](https://soliditylang.org/)
-- 👀 [Ethersjs](https://docs.ethers.io/v5/)
-- ✨ [Live Demo](https://answer-to-earn.vercel.app/)
+✨ Transform the Q&A experience with **QnAverse**! 🌟
